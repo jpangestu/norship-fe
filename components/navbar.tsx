@@ -7,7 +7,7 @@ export async function Navbar() {
     return (
         <div className="navbar bg-base-100 shadow-sm">
             <div className="flex-1">
-                <a className="btn btn-ghost text-xl" href='/'>App</a>
+                <a className="btn btn-ghost text-xl" href='/'>Norship</a>
             </div>
             <input type="text" placeholder="Search (undeveloped)" className="input input-bordered w-24 md:w-auto" />
             <div className="dropdown dropdown-end">
